@@ -1,0 +1,10 @@
+2012-08-28 14:59:51 | 1049 - Unknown database 'produtos' | C:\xampp\htdocs\carrinho\libs\classes\mysqli_connection.php | ::1
+
+2012-08-28 14:59:53 | 1049 - Unknown database 'produtos' | C:\xampp\htdocs\carrinho\libs\classes\mysqli_connection.php | ::1
+
+2012-08-28 14:59:55 | 1049 - Unknown database 'produtos' | C:\xampp\htdocs\carrinho\libs\classes\mysqli_connection.php | ::1
+
+2012-09-12 01:58:07 | 1045 - Access denied for user 'root'@'localhost' (using password: YES) | G:\web\carrinho\libs\classes\mysqli_connection.php | 127.0.0.1
+
+2012-09-12 01:59:10 | 1045 - Access denied for user 'root'@'localhost' (using password: YES) | G:\web\carrinho\libs\classes\mysqli_connection.php | 127.0.0.1
+

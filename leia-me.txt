@@ -1,0 +1,5 @@
+Sistema desenvolvido por Roberto Beraldo Chaiben (Beraldo)
+
+O arquivo init.php contém as configurações gerais do sistema. Lá é possível editar as informações de conexão a banco de dados, servidor SMTP, nomes de diretórios, etc.
+
+O arquivo config.sql contém os códigos para a criação do banco de dados.
